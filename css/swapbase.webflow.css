@@ -544,6 +544,7 @@
   bottom: -2%;
   left: auto;
   right: -2%;
+  animation: hueRotateLoop 10s linear infinite;
 }
 
 .bottom-menu {
@@ -775,3 +776,13 @@
   font-style: normal;
   font-display: swap;
 }
+
+@keyframes hueRotateLoop {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
+
