@@ -658,6 +658,9 @@
     display: none;
   }
 
+   .heading-6-mob{
+    display: block!important;
+   }
 
   .content {
     padding-left: 10px;
