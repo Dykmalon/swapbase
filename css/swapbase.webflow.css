@@ -721,6 +721,12 @@
   .bot-c{
     margin-top: -44px;
   }
+  .image-4{
+    width: 6.5em;
+    display: block;
+    bottom: -5%;
+    right: 37%;
+  }
 }
 
 @font-face {
