@@ -712,7 +712,7 @@
   }
 }
 
-@media screen and (min-width: 100px){
+@media (min-width: 0px) and (max-width: 376px) {
   .heading-7{
     font-size: 0.9em;
     line-height: 20px;
