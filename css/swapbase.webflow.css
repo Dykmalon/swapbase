@@ -712,6 +712,13 @@
   }
 }
 
+@media screen and (min-width: 376px){
+  .heading-7{
+    font-size: 0.9em;
+    line-height: 20px;
+    
+  }
+}
 
 @font-face {
   font-family: 'Clashdisplay';
