@@ -686,11 +686,11 @@
   }
 
   .bot-c {
-    margin-top: 40px;
+    margin-top: 40px!important;
   }
 
   .heading-7 {
-    font-size: 1.2em;
+    font-size: 1.2em!important;
   }
 
   .buttons {
