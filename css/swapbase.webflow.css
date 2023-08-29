@@ -728,7 +728,7 @@
     display: block;
     bottom: -5%;
     right: 37%;
-    display: none;
+    display: none!important;
   }
 }
 
