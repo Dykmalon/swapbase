@@ -710,7 +710,7 @@
     display: block;
     bottom: 6%;
     right: -2%;
-    display: none;
+    display: none!important;
   }
 }
 
