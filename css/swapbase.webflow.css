@@ -707,7 +707,6 @@
 
   .image-4 {
     width: 7.5em;
-    display: block;
     bottom: 6%;
     right: -2%;
     display: none!important;
@@ -725,7 +724,6 @@
   }
   .image-4{
     width: 6.5em;
-    display: block;
     bottom: -5%;
     right: 37%;
     display: none!important;
